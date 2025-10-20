@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(40, 40, 40);
+    background-color:rgb(40, 40, 40);
 }
 
 h1 {
@@ -9,5 +9,8 @@ h1 {
 }
 /* Start here by styling the main div section */
 .main {
-    
+background-color: tan;
+width: fit-content;
+margin-right: auto;
+font-size: 80px;
 }
